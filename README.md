@@ -8,4 +8,4 @@ Fish-App Repository: https://github.com/Capou/FishClassifierApp.git
 Bilddaten-Drive-Link: https://drive.google.com/drive/folders/161NKbs_BchgzALd7RImihZm78j710Lps?usp=sharing
 
 Code Ausführungshinweis: 
-- Zum ausführen der Umsetzung_ResNet und Umsetzung_EfficientNet sind die Bilddaten, erzeugt über den Code "Datenmanagement", erforderlich. 
+- Zum ausführen der Umsetzung_ResNet und Umsetzung_EfficientNet sind die Bilddaten, erzeugt über den Code "Umsetzung_Datenmanagement", erforderlich. 
